@@ -71,5 +71,6 @@ public class MainDrawingView extends View
 
     public void clear(Canvas canvas)
     {
+
     }
 }
